@@ -18,7 +18,7 @@
 <p align="center">
   <samp>
     [<a href="https://matrix.to/#/@owl4ce:matrix.org">matrix</a>]
-    [<a href="mailto:alternate-se7en@proton.me">e-mail</a>]
+    [<a href="mailto:alternate-mhdraihandzakys@gmail.com">e-mail</a>]
   </samp>
 </p>
 
