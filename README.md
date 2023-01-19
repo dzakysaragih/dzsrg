@@ -17,7 +17,6 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [<a href="https://matrix.to/#/@owl4ce:matrix.org">matrix</a>]
     [<a href="mailto:alternate-mhdraihandzakys@gmail.com">e-mail</a>]
   </samp>
 </p>
