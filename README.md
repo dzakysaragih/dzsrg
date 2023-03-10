@@ -65,11 +65,11 @@ I am DK, a Software Engineer. I love open source.<br>
 <br><br>8. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;
-[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;
+[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dzsrg)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - dzsrg](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dzsrg)&emsp;
 
 <br><br>9. #️ 📖 **Articles and Posts**<br>
 &emsp;&emsp;&emsp;
-[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
+[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dzsrg) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/dzsrg/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
 
 
 <br><br>10.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
@@ -89,8 +89,8 @@ I am DK, a Software Engineer. I love open source.<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dzsrg&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=dzsrg&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20&include_private=true)
 
 <br>
