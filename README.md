@@ -72,11 +72,6 @@ I am DK, a Software Engineer. I love open source.<br>
 [![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dzsrg) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/dzsrg/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
 
 
-<br><br>10.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
-&emsp;&emsp;&emsp;&emsp;Click the widget below for more<br>
-&emsp;&emsp;&emsp;&emsp;<a href="https://meta.stackexchange.com/users/1338776/dzaky-id?tab=accounts"><img src="https://meta.stackexchange.com/users/1338776/dzaky-id" width="208" height="58" alt="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David Kariuki on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a><br><br>
-&emsp;&emsp;&emsp;&emsp;The link shows an overview to all my achievements and contributions on the stack exchange network. This includes but not limited to StackOverflow, Unix & Linux, Information Security, ServerFault. 
-    
 <br><br> 
 
 ### ✍️ Quote (Refresh for more)
