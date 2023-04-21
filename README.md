@@ -1,6 +1,6 @@
 Terus Mencoba Coding Walau Akhirnya Akan Selalu Error :(
 
-<img align="center" src="https://github-cardname.caliph.my.id/api?name=Zeltoria&description=Hi%20Sis,%20I%27m%20Zeltoria.%20My%20Skills%20Are%20just%20Copy%20And%20Paste,%20That%27s%20Nothing%20More&image=https://avatars.githubusercontent.com/dzsrga&usqp=CAU&backgroundColor=%23ecf0f1&github=Zeltoria&instagram=zck90_&pattern=rain&colorPattern=%23eaeaea&site=Nothing%20In%20Here"/>
+<img align="center" src="https://github-cardname.caliph.my.id/api?name=Zeltoria&description=Hi%20Sis,%20I%27m%20Zeltoria.%20My%20Skills%20Are%20just%20Copy%20And%20Paste,%20That%27s%20Nothing%20More&image=https://avatars.githubusercontent.com/dzsrga&usqp=CAU&backgroundColor=%23ecf0f1&github=dzsrg&instagram=zck90_&pattern=rain&colorPattern=%23eaeaea&site=Nothing%20In%20Here"/>
 
 -----
 <h3 align="left">Visitor</h3>
