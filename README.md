@@ -1,8 +1,9 @@
+```golang
 package main
 
 import (
     "fmt"
-    "github.com/namdevel/namdevel"
+    "github.com/dzsrg/dzsrg"
 )
 
 type Github struct {
@@ -27,3 +28,4 @@ func (g *Github) Init() {
     g.occupation = "Freelance Developer"
     g.operating_system = "Windows, Arch, Linux"
 }
+```
