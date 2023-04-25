@@ -3,7 +3,7 @@
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-dzsrg-white?style=flat&logo=Github&logoColor=black&link=https://github.com/dzsrg/)](https://github.com/dzsrg)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/62882016196872/)](https://wa.me/-62882016196872-green/) 
-[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/dzsrg.notfound/)](https://www.facebook.com/dzsrg.notfound)
+[![Facebokm Badge](https://img.shields.io/badge/-DZAKYXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/dzsrg.notfound/)](https://www.facebook.com/dzsrg.notfound)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+dzsrg+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 ***Hello ngab, [DzakyXD]() is here***
 ![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
