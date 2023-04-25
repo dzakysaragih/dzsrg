@@ -27,9 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/dzsrg/sharev1"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=dzsrg&repo=sharev1&theme=monokai"></a>
-<a href="https://github.com/dzsrg/KomenFB"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=dzsrg&repo=KomenFB&theme=monokai"></a>
-<a href="https://github.com/dzsrg/"><img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=dzsrg&repo=sharev2&theme=monokai"></a>
-</p>
-
-
