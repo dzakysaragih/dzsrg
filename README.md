@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/Zerotwo"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
+  <a href="https://github.com/dzsrg"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
 </p>
 
-[![Github Badge](https://img.shields.io/badge/-dzsrg-white?style=flat&logo=Github&logoColor=black&link=https://github.com/WhyuXD/)](https://github.com/WhyuXS)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/62882016196872/)](https://wa.me/-62882016196872-green/) 
-[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/Whyu.Xyz.404.notfound/)](https://www.facebook.com/dzsrg.notfound)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Wahyu+XD+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
-***Hello ngab, [WahyuXD]() is here***
+[![Github Badge](https://img.shields.io/badge/-dzsrg-white?style=flat&logo=Github&logoColor=black&link=https://github.com/dzsrg/)](https://github.com/dzsrg)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/62882016196872/)](https://wa.me/-62882016196872-green/) 
+[![Facebokm Badge](https://img.shields.io/badge/-WahyuXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/dzsrg.notfound/)](https://www.facebook.com/dzsrg.notfound)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+dzsrg+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
+***Hello ngab, [DzakyXD]() is here***
 ![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
 
 ***Language***
