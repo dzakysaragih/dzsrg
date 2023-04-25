@@ -6,8 +6,6 @@
 [![Facebokm Badge](https://img.shields.io/badge/-DZAKYXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/dzsrg.notfound/)](https://www.facebook.com/dzsrg.notfound)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=8000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+dzsrg+Don't+Forget+To+Follow+Anj)](https://git.io/typing-svg)
 ***Hello ngab, [DzakyXD]() is here***
-![IMG-20221219-WA0073~2](https://user-images.githubusercontent.com/115902571/208432603-40622335-4f1c-430d-aa68-20951d840276.jpg)
-
 ***Language***
 
 ![python](https://img.shields.io/badge/-python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
