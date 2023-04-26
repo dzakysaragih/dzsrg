@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/dzsrg"><img src="https://avatars3.githubusercontent.com/u/28254882?s=400&u=25765902db0b709938966cf4127ac11af5eafb5d&v=4" height="128" width="128" /></a>
-</p>
+Don't expect your problems to be eased, but hope that you will become a stronger person.
 
 [![Github Badge](https://img.shields.io/badge/-dzsrg-white?style=flat&logo=Github&logoColor=black&link=https://github.com/dzsrg/)](https://github.com/dzsrg)  [![WhatsApp Badge](https://img.shields.io/badge/-Press-white?style=flat&logo=WhatsApp&logoColor=green&link=https://wa.me/62882016196872/)](https://wa.me/-62882016196872-green/) 
 [![Facebokm Badge](https://img.shields.io/badge/-DZAKYXD-white?style=flat&logo=Facebook&.logoColor=green&link=https://www.facebook.com/dzsrg.notfound/)](https://www.facebook.com/dzsrg.notfound)
